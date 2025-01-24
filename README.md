@@ -5,9 +5,7 @@ Python (3.10.13) was used as a language for this research, and used packages wer
 @article{
 	  
           title={Database Construction for the Virtual Screening of the Ruthenium-Catalyzed Hydrogenation of Ketones},
-	  
           author={Haruno Nakajima, Chihaya Murata, Naoki Noto, Susumu Saito},
-	  
           journal info={J. Org. Chem. 2025, 90, 1054–1060.},
 	
  }
